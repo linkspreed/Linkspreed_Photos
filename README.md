@@ -1,11 +1,11 @@
 # <img align="left" alt="Linkspreed Photos" width="100px" src="https://www.photos.linkspreed.com/client/favicon/icon-144x144.png" draggable="false" /> Linkspreed Photos ([Click to try 🚀](https://photos.linkspreed.com/))
 
-Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
+Linkspreed Photos 🧡 - get 200 terabytes of cloud storage ☁️ for your photos and best memories 🤳
 
 
 
-## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
+## **[Changelog ☁️](https://github.com/linkspreed/Linkspreed_Photos/blob/main/changelog.md)** **Check out the full Linkspreed Photos changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Linkspreed_Photos/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Linkspreed Photos besides development**
 
 
 <div align="center">
@@ -52,8 +52,9 @@ Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for you
 
 ## More
  
-Analytix is **free**, **real-time** and with **unlimited** resources 
-for developers around the world.
+Linkspreed Photos is **free**, **real-time** and with **unlimited** resources 
+for users around the world.
+You get **200TB** free Cloud Storage!
 
 Our focus is on **usability** and **security** 
 for our developers, users and anyone who comes into contact with ([Linkspreed 🚀](https://www.linkspreed.com/)).
@@ -63,22 +64,22 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
     is developed properly so that 
     the platform works as well as possible.
 ```
- You can enjoy Analytix freely and use all features to an unlimited extent.
+ You can enjoy Linkspreed Photos freely and use all features to an unlimited extent.
 
 ## 📷 UI
 
 
 ### Privacy focused web analytics
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/1.PNG" draggable="false" />
+<img align="center" alt="Linkspreed Photos" width="3000px" src="https://github.com/linkspreed/Linkspreed_Photos/blob/main/screenshots/1.PNG" draggable="false" />
 
 ### Analytics
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/2.PNG" draggable="false" />
+<img align="center" alt="Linkspreed Photos" width="3000px" src="https://github.com/linkspreed/Linkspreed_Photos/blob/main/screenshots/2.PNG" draggable="false" />
 
 ### Register now
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/3.PNG" draggable="false" />
+<img align="center" alt="Linkspreed Photos" width="3000px" src="https://github.com/linkspreed/Linkspreed_Photos/blob/main/screenshots/3.PNG" draggable="false" />
 
 ### Dashboard
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/4.PNG" draggable="false" />
+<img align="center" alt="Linkspreed Photos" width="3000px" src="https://github.com/linkspreed/Linkspreed_Photos/blob/main/screenshots/4.PNG" draggable="false" />
 
 ### Add a new website
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/5.PNG" draggable="false" />
+<img align="center" alt="Linkspreed Photos" width="3000px" src="https://github.com/linkspreed/Linkspreed_Photos/blob/main/screenshots/5.PNG" draggable="false" />
