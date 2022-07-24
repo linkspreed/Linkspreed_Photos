@@ -1,4 +1,4 @@
-# <img align="left" alt="Analytix" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/))
+# <img align="left" alt="Linkspreed Photos" width="100px" src="https://www.photos.linkspreed.com/client/favicon/icon-144x144.png" draggable="false" /> Linkspreed Photos ([Click to try 🚀](https://photos.linkspreed.com/))
 
 Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
 
