@@ -1,3 +1,6 @@
+# 09.08.2022
+  - We did a mini review on Linkspreed Photos.
+
 # 23.07.2022
   - A new logo was designed.
 
