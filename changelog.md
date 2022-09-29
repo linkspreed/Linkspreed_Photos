@@ -1,4 +1,4 @@
-# 2021 July 17 - Version 2.2.6
+# 2021 July 16 - Version 2.2.6
 ## New Features
  - Added filtering functionality. It's now possible to filter and search files by date, type, owner, shared status and more.
  - Enhancements
