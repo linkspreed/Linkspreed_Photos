@@ -1,3 +1,6 @@
+### 23.10.2022 (announcement)
+- We will release a major update for this cloud in the coming weeks.
+
 # 09.08.2022
   - We did a mini review on Linkspreed Photos.
 
