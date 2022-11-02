@@ -1,4 +1,8 @@
 ### 02.11.2022 (announcement Linkspreed Photos)
+- We fixed the DNS issue on **Linkspreed Photos**. ☁️🧡
+- https://photos.linkspreed.com is now available again.
+
+### 02.11.2022 (announcement Linkspreed Photos)
 - We are very close to a new major update.
 
 ### 27.10.2022
