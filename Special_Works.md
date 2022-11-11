@@ -1,4 +1,7 @@
 ### 11.11.2022 (announcement Linkspreed Photos)
+- The new update will be available soon!
+
+### 11.11.2022 (announcement Linkspreed Photos)
 - We have negotiations with Cloudflare - then we will release the new update!
 
 ### 02.11.2022 (announcement Linkspreed Photos)
