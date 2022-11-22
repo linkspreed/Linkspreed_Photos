@@ -1,3 +1,7 @@
+### 22.11.2022 (announcement Linkspreed Photos)
+- We found a DNS error on **Linkspreed Photos**. 🤔
+- We will fix the error as soon as possible!
+
 ### 11.11.2022 (announcement Linkspreed Photos)
 - The new update will be available soon!
 
