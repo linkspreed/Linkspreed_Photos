@@ -1,4 +1,9 @@
 ### 21.12.2022 (announcement Linkspreed Photos)
+- The launch of version 3.0.8 of **Linkspreed Photos** was successful! 🥳
+- The new update is live now :)
+- https://photos.linkspreed.com 🔗
+
+### 21.12.2022 (announcement Linkspreed Photos)
 - We are now starting the launch of v3.0.8.
 
 ### 21.12.2022 (announcement Linkspreed Photos)
