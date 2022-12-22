@@ -1,4 +1,7 @@
 ### 22.12.2022 (announcement Linkspreed Photos)
+- Google Login is now working properly on **Linkspreed Photos**. ☁️
+
+### 22.12.2022 (announcement Linkspreed Photos)
 - We're currently working on **Linkspreed Photos**!
 
 ### 21.12.2022 (announcement Linkspreed Photos)
