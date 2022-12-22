@@ -1,18 +1,27 @@
-### 21.12.2022 (announcement Linkspreed Photos)
+### 22.12.2022 (announcement Linkspreed Photos)
+- https://github.com/linkspreed/linkspreed_photos/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 22.12.2022 (announcement Linkspreed Photos)
 - The launch of version 3.0.8 of **Linkspreed Photos** was successful! 🥳
 - The new update is live now :)
 - https://photos.linkspreed.com 🔗
 
-### 21.12.2022 (announcement Linkspreed Photos)
+### 22.12.2022 (announcement Linkspreed Photos)
+- The launch of version 3.0.8 of **Linkspreed Photos** was successful! 🥳
+- The new update is live now :)
+- https://photos.linkspreed.com 🔗
+
+### 22.12.2022 (announcement Linkspreed Photos)
 - We are now starting the launch of v3.0.8.
 
-### 21.12.2022 (announcement Linkspreed Photos)
+### 22.12.2022 (announcement Linkspreed Photos)
 - The servers are now ready for the launch of version 3.0.8 for **Linkspreed Photos**.
 
-### 21.12.2022 (announcement Linkspreed Photos)
+### 22.12.2022 (announcement Linkspreed Photos)
 - The code is now ready for the launch of version 3.0.8 for **Linkspreed Photos**.
 
-### 21.12.2022 (announcement Linkspreed Photos)
+### 22.12.2022 (announcement Linkspreed Photos)
 -  **Linkspreed Photos** gets a big update today - we are going to launch v3.0.8. 😍
 
 ### 22.12.2022 (announcement Linkspreed Photos)
