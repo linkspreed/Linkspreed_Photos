@@ -1,4 +1,7 @@
 ### 21.12.2022 (announcement Linkspreed Photos)
+- The servers are now ready for the launch of version 3.0.8 for **Linkspreed Photos**.
+
+### 21.12.2022 (announcement Linkspreed Photos)
 - The code is now ready for the launch of version 3.0.8 for **Linkspreed Photos**.
 
 ### 21.12.2022 (announcement Linkspreed Photos)
