@@ -1,4 +1,7 @@
 ### 21.12.2022 (announcement Linkspreed Photos)
+- The code is now ready for the launch of version 3.0.8 for **Linkspreed Photos**.
+
+### 21.12.2022 (announcement Linkspreed Photos)
 -  **Linkspreed Photos** gets a big update today - we are going to launch v3.0.8. 😍
 
 ### 22.12.2022 (announcement Linkspreed Photos)
