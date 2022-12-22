@@ -1,3 +1,6 @@
+### 21.12.2022 (announcement Linkspreed Photos)
+-  **Linkspreed Photos** gets a big update today - we are going to launch v3.0.8. 😍
+
 ### 22.12.2022 (announcement Linkspreed Photos)
 - Google Login is now working properly on **Linkspreed Photos**. ☁️
 
