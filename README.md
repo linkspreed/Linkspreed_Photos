@@ -2,7 +2,7 @@
 
 Linkspreed Photos 🧡 - get 200 terabytes of cloud storage ☁️ for your photos and best memories 🤳
 
-## Now **Cloud2Go** is completely decentralized and runs on a global, decentralized network!
+## Now **Linkspreed Photos** is completely decentralized and runs on a global, decentralized network!
 
 ## **[Changelog ☁️](https://github.com/linkspreed/Linkspreed_Photos/blob/main/changelog.txt)** **Check out the full Linkspreed Photos changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Linkspreed_Photos/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Linkspreed Photos besides development**
