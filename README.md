@@ -1,4 +1,4 @@
-# <img align="left" alt="Linkspreed Photos" width="100px" src="https://photos.linkspreed.com/favicon/icon-144x144.png" draggable="false" /> Linkspreed Photos ([Click to try 🚀](https://photos.linkspreed.com/)) - Decentralized (Web3) | (v3.0.9)
+# <img align="left" alt="Linkspreed Photos" width="100px" src="https://photos.linkspreed.com/favicon/icon-144x144.png" draggable="false" /> Linkspreed Photos ([Click to try 🚀](https://photos.linkspreed.com/)) - Decentralized (Web3) | (v3.1.0)
 
 Linkspreed Photos 🧡 - get 200 terabytes of cloud storage ☁️ for your photos and best memories 🤳
 
