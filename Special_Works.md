@@ -1,3 +1,6 @@
+### 09.05.2023 (announcement Linkspreed Photos)
+- 📸💻 Hey everyone! We're temporarily redirecting Linkspreed Photos to our new Cloud ShareNode while we draft a new plan. Have you had a chance to check out our Cloud ShareNode yet? Let us know your thoughts! #photoorganization #cloudstorage 🤔💭
+
 ### 06.04.2023 (announcement Linkspreed Photos)
 - 📷🌅 Capture life's precious moments with #Linkspreed Photos v3.1.0! Our updated photo sharing platform now comes with unlimited storage and a sleek new design! 🤩📸
 
